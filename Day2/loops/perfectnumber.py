@@ -4,4 +4,4 @@ def perfect(n):
         if n % i == 0:
             sum += i
     return sum == n
-print(perfect(28))
+print(perfect(28))  
