@@ -1,4 +1,4 @@
-def countOccurancesCharacter(s,):
+def countOccurancesCharacter(s):
     dict={}
     for i in s:
         if i in dict:
